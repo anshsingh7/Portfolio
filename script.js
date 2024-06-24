@@ -6,7 +6,6 @@ function toggleMenu() {
 }
 
 // Dark / light mode
-
 const btn = document.getElementById("modeToggle");
 const btn2 = document.getElementById("modeToggle2");
 const themeIcons = document.querySelectorAll(".icon");
